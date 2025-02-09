@@ -37,5 +37,5 @@ function loadData(){
     `).join('')
 }
 
-loadData()
-getData()
+getData();
+loadData();
